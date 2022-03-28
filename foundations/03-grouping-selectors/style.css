@@ -3,3 +3,12 @@
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
+.uno {
+    background-color: black;
+    color: white;
+}
+
+.dos {
+    background-color: yellow;
+    color: black;
+}
